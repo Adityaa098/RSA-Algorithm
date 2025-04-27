@@ -2,10 +2,7 @@
 The RSA algorithm is based on public-key encryption technology which is a public-key cryptosystem for reliable data transmission.
 
 # Properties Of RSA
-RSA is a public-key encryption method.
-This algorithm is safe and reliable for the transfer of data across the internet.
-It takes care of the privacy of the data.
-RSA has unusual toughness as breaking into the keys by interceptors is very difficult.
+RSA is a public-key encryption method.This algorithm is safe and reliable for the transfer of data across the internet.It takes care of the privacy of the data.RSA has unusual toughness as breaking into the keys by interceptors is very difficult.
 
 # Advantages Of RSA
 The process of implementing the RSA algorithm is quite simple.
